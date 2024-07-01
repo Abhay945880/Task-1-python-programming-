@@ -1,7 +1,5 @@
 name = "ABHAY"
-
 for letter in name:
-
 print(letter# Task-1-python-programming-
 
 
